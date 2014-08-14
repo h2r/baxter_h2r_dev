@@ -1,8 +1,4 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(baxter_h2r_packages)
-find_package(catkin REQUIRED)
-catkin_metapackage()
-cmake_minimum_required(VERSION 2.8.3)
 project(baxter_h2r_dev)
 find_package(catkin REQUIRED)
 catkin_metapackage()
